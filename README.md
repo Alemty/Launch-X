@@ -1,5 +1,5 @@
 # Launch-X
-Evidencia de las Katas del Modulo 1 al 6
+Evidencia de las Katas de Launch X
 
 
 Alejandro Gutierrez para Innovacción Virtual
